@@ -1,0 +1,10 @@
+package iFexample;
+
+public class Scantest {
+
+	public static void main(String[] args) {
+		// Scanner는 자료를 키보드로부터 입력받을 수 있는 클래스(class)이다.
+		
+	}
+
+}

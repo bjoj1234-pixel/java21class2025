@@ -1,0 +1,18 @@
+package example;
+
+public class OperateEx03 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int kor =100;
+		int eng =87;
+		int math =41;
+		
+		int avg = (kor+eng+math) /3;
+		boolean a = avg >=60;
+		boolean b = avg >= 60 && ~(kor<50 | eng <50 | math<50);
+		System.out.println(a);
+		System.out.println(b);
+	}
+
+}

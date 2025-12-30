@@ -1,0 +1,51 @@
+package iFexample;
+
+import java.util.Scanner;
+
+public class ifEx11 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner scan = new Scanner(System.in);
+		
+		int bulgogi = 8700;
+		int saewoo = 6200;
+		int cola = 1500;
+		System.out.println("=== 롯데리아 ===");
+		System.out.printf("1. 불고기 버거 : %d원%n",bulgogi);
+		System.out.printf("2. 새우 버거 : %d원%n",saewoo);
+		System.out.printf("3. 콜라 : %d원%n",cola);
+		
+		System.out.println("메뉴를 선택하세요 :");
+		int menu = scan.nextInt();
+		System.out.println("현금을 입력하세요 :");
+		int price = scan.nextInt();		
+		
+		switch(menu) {
+			case 1: 
+				if(bulgogi-price >= 0) {
+					System.out.printf("잔돈: %d원",bulgogi-price);
+				}else {
+					System.out.println("현금이 부족합니다.");
+				}
+				break;
+			case 2:
+				if(saewoo-price >= 0) {
+					System.out.printf("잔돈: %d원",saewoo-price);
+				}else {
+					System.out.println("현금이 부족합니다.");
+				}
+				break;
+			case 3:
+				if(cola-price >= 0) {
+					System.out.printf("잔돈: %d원",cola-price);
+				}else {
+					System.out.println("현금이 부족합니다.");
+				}
+				break;
+			default : System.out.println("현금이 잘못입력되었습니다.");
+		}
+		
+	}
+
+}

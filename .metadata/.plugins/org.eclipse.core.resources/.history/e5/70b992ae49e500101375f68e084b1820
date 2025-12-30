@@ -1,0 +1,24 @@
+package iFexample;
+
+import java.util.Scanner;
+
+public class ifEx03 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner Sc= new Scanner(System.in);
+		
+		System.out.println("성적입력(0~100");
+		int score = Sc.nextInt();
+		
+		if(score>=60) {
+			System.out.println("합격");
+		}else if(score<0 || score >100) {
+			System.out.println("성적을 잘못 입력하였습니다.");
+		}else {
+			System.out.println("불합격");
+		}
+		
+	}
+
+}

@@ -1,0 +1,13 @@
+package example;
+
+public class OperateEx03 {
+	int kor =100;
+	int eng =87;
+	int math =41;
+	
+	int avg = (kor+eng+math)/3;
+	
+	boolean c = avg >=60 && (kor <50 || eng<50 || math<50);
+	
+	 
+}
