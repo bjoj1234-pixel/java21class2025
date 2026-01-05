@@ -31,7 +31,7 @@ public class ArrayEx10 {
 					System.out.printf("예매인원은 1~%d이하의 숫자를 입력해주세요%n",seat.length);
 				}else if(headCount-count==1){ //예매인원이 한명일때
 					for(int i=0; i<seat.length; i++) {
-						if(i%2 = 0) {
+						if(i%2 == 0) {
 							seat[i]=3;
 						}
 						if(seat[i]==0){
