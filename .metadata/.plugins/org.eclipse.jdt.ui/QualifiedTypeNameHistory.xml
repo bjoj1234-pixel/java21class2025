@@ -4,7 +4,6 @@
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="jdk.internal.misc.FileSystemOption"/>
     <fullyQualifiedTypeName name="jdk.internal.org.jline.terminal.TerminalBuilder.SystemOutput"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="classpart.Student"/>
     <fullyQualifiedTypeName name="classpart.Bicycle"/>
     <fullyQualifiedTypeName name="classpart01.Ex01"/>
@@ -23,7 +22,20 @@
     <fullyQualifiedTypeName name="arrayListEx03.Student"/>
     <fullyQualifiedTypeName name="arrayListEx03.Subject"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="arrayListEx03.Player"/>
+    <fullyQualifiedTypeName name="java.text.NumberFormat"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="bookshop.BookList"/>
+    <fullyQualifiedTypeName name="bookshop.BookDTO"/>
+    <fullyQualifiedTypeName name="staticEx.Student"/>
+    <fullyQualifiedTypeName name="staticEx.StaticEx01"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.ProcessBuilder"/>
+    <fullyQualifiedTypeName name="privateEx.PrivateTest"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="bookMax.privateEx01"/>
 </qualifiedTypeNameHistroy>
