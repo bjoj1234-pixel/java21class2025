@@ -1,32 +1,42 @@
 package bookMax;
 
+import java.util.ArrayList;
+
 public class privateEx01 {
-	private String title;
-	private String author;
-	private int price;
-	
-	public String getTitle() {
-		return title;
-	}
-	public void setTitle(String title) {
-		this.title = title;
-	}
-	public String getAuthor() {
-		return author;
-	}
-	public void setAuthor(String author) {
-		this.author = author;
-	}
-	public int getPrice() {
-		return price;
-	}
-	public void setPrice(int price) {
-		this.price = price;
-	}
+	ArrayList<bookDTO> bookArray = new ArrayList<bookDTO>();
+
+	//책정보 저장	
+	public void addData(String title,String author,int price) {
+		bookDTO dto = new bookDTO();
+		
+		dto.setTitle(title);
+		dto.setAuthor(author);
+		dto.setPrice(price);
+		
+		bookArray.add(dto);
+	};
 	
 	//책목록 출력
-	public void bookPrint() {
-		System.out.println("제목: "+this.title+"\t저자: "+this.author+"\t가격: "+this.price+"원");
+	public void bookInfo() {
+		for(bookDTO b:bookArray) {
+			b.bookPrint();
+		}		
+	}
+	
+	//가장 비싼책
+	public void expensive() {
+		String title=""; 
+		String author="";
+		int price = 0;
+		
+		for(bookDTO b : bookArray) {
+			if(price < b.getPrice()) {
+				price = b.getPrice();
+				title = b.getTitle();
+				author = b.getAuthor();
+			}
+		}
+		System.out.println("제목: "+title+"\t저자: "+author+"\t가격: "+price+"원");
 	}
 
 	

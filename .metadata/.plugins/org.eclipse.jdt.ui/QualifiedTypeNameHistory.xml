@@ -32,10 +32,20 @@
     <fullyQualifiedTypeName name="bookshop.BookDTO"/>
     <fullyQualifiedTypeName name="staticEx.Student"/>
     <fullyQualifiedTypeName name="staticEx.StaticEx01"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.lang.ProcessBuilder"/>
     <fullyQualifiedTypeName name="privateEx.PrivateTest"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="bookMax.privateEx01"/>
+    <fullyQualifiedTypeName name="inheritance.ParentClass"/>
+    <fullyQualifiedTypeName name="inheritance.ChildClass"/>
+    <fullyQualifiedTypeName name="inheritance3.ColorTV"/>
+    <fullyQualifiedTypeName name="inheritance02.ShapPencil"/>
+    <fullyQualifiedTypeName name="inheritance02.BollPen"/>
+    <fullyQualifiedTypeName name="inheritance02.FounctionPen"/>
+    <fullyQualifiedTypeName name="inheritance04.Customer"/>
+    <fullyQualifiedTypeName name="java.lang.ProcessBuilder"/>
+    <fullyQualifiedTypeName name="inheritance04.VIP"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="shopMol.Item"/>
+    <fullyQualifiedTypeName name="shopMol.ItemManager"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>

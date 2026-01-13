@@ -1,29 +1,32 @@
 package bookMax;
 
-import java.util.ArrayList;
-
 public class bookDTO {
-	ArrayList<privateEx01> pt = new ArrayList<privateEx01>();
-
-	privateEx01 pt01 = new privateEx01();
-	privateEx01 pt02 = new privateEx01();
-	privateEx01 pt03 = new privateEx01();
+	private String title;
+	private String author;
+	private int price;
 	
-	
-	
-	pt
-//	pt02.setTitle("이펙티브 자바");
-//	pt03.setTitle("클린 코드");
-//	pt01.setAuthor("남궁성");
-//	pt02.setAuthor("조슈아 블로크");
-//	pt03.setAuthor("로버트 마팀");
-//	pt01.setPrice(30000);
-//	pt02.setPrice(36000);
-//	pt03.setPrice(29000);
+	public String getTitle() {
+		return title;
+	}
+	public void setTitle(String title) {
+		this.title = title;
+	}
+	public String getAuthor() {
+		return author;
+	}
+	public void setAuthor(String author) {
+		this.author = author;
+	}
+	public int getPrice() {
+		return price;
+	}
+	public void setPrice(int price) {
+		this.price = price;
+	}
 	
 	//책목록 출력
 	public void bookPrint() {
-		System.out.println("제목: "+pt.title+"\t저자: "+pt.author+"\t가격: "+pt.price+"원");
+		System.out.println("제목: "+this.title+"\t저자: "+this.author+"\t가격: "+this.price+"원");
 	}
 	
 }
