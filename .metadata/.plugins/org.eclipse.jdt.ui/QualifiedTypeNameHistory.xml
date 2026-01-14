@@ -18,7 +18,6 @@
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="arrayListEx01.Product"/>
     <fullyQualifiedTypeName name="arrayListEx01.Cart"/>
-    <fullyQualifiedTypeName name="java.lang.ScopedValue"/>
     <fullyQualifiedTypeName name="arrayListEx03.Student"/>
     <fullyQualifiedTypeName name="arrayListEx03.Subject"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
@@ -40,12 +39,22 @@
     <fullyQualifiedTypeName name="inheritance02.ShapPencil"/>
     <fullyQualifiedTypeName name="inheritance02.BollPen"/>
     <fullyQualifiedTypeName name="inheritance02.FounctionPen"/>
-    <fullyQualifiedTypeName name="inheritance04.Customer"/>
     <fullyQualifiedTypeName name="java.lang.ProcessBuilder"/>
     <fullyQualifiedTypeName name="inheritance04.VIP"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="shopMol.Item"/>
     <fullyQualifiedTypeName name="shopMol.ItemManager"/>
+    <fullyQualifiedTypeName name="java.lang.ScopedValue"/>
+    <fullyQualifiedTypeName name="java.nio.channels.ScatteringByteChannel"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="omok.GameElements"/>
+    <fullyQualifiedTypeName name="omok.Game"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="polymorphism.Animal"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="polymorphism.AnimalTest"/>
+    <fullyQualifiedTypeName name="polymorphism.Human"/>
+    <fullyQualifiedTypeName name="polymorphism.Eagle"/>
+    <fullyQualifiedTypeName name="inheritance04.GoldCustomer"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="inheritance04.Customer"/>
 </qualifiedTypeNameHistroy>

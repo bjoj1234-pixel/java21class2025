@@ -21,4 +21,9 @@ public class VIP extends Customer{
 	public String showCustomerInfo() {
 		return super.showCustomerInfo() + "담당 전문 상담은 "+charge+"번입니다.";
 	}
+	//보너스와 할인율 출력
+	@Override
+	public String showBonusSale() {
+		return super.showBonusSale() + "담당 전문 상담은 "+charge+"번입니다.";
+	}
 }

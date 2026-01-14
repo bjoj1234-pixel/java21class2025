@@ -33,8 +33,11 @@ public class Customer {
 	}
 	//고객정보 출력
 	public String showCustomerInfo() {
-		return "지불금액은 "+salePrice+"원이고,"+customerName+"님의 등급은 "+customerGrade+"이며, 보너스포인트는 "+bonusPoint+"입니다.";
+		return customerName+"님의 등급은 "+customerGrade+"이며, 보너스포인트는 "+bonusPoint+"입니다.";
 	}
-	
+	//보너스와 할인율 출력
+	public String showBonusSale() {
+		return customerName+"님이 "+salePrice+"를 지불하셨습니다.%n"+customerName+"님의 등급은 "+customerGrade+"이며, 보너스포인트는 "+bonusPoint+"입니다.%n";
+	}
 
 }
