@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.Object"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
-    <fullyQualifiedTypeName name="jdk.internal.misc.FileSystemOption"/>
-    <fullyQualifiedTypeName name="jdk.internal.org.jline.terminal.TerminalBuilder.SystemOutput"/>
-    <fullyQualifiedTypeName name="classpart.Student"/>
-    <fullyQualifiedTypeName name="classpart.Bicycle"/>
-    <fullyQualifiedTypeName name="classpart01.Ex01"/>
-    <fullyQualifiedTypeName name="classpart07.ClassEx07"/>
-    <fullyQualifiedTypeName name="classpart05.ClassEx05"/>
-    <fullyQualifiedTypeName name="classpart08.ClassEx07"/>
-    <fullyQualifiedTypeName name="classpart08.ClassEx09"/>
-    <fullyQualifiedTypeName name="java.util.Random"/>
-    <fullyQualifiedTypeName name="classpart08.ClassEx10"/>
     <fullyQualifiedTypeName name="com.sun.tools.jdeprscan.scan.Scan"/>
     <fullyQualifiedTypeName name="classpart08.ClassEx11"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
@@ -45,16 +32,32 @@
     <fullyQualifiedTypeName name="shopMol.ItemManager"/>
     <fullyQualifiedTypeName name="java.lang.ScopedValue"/>
     <fullyQualifiedTypeName name="java.nio.channels.ScatteringByteChannel"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="omok.GameElements"/>
     <fullyQualifiedTypeName name="omok.Game"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="polymorphism.Animal"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="polymorphism.AnimalTest"/>
     <fullyQualifiedTypeName name="polymorphism.Human"/>
     <fullyQualifiedTypeName name="polymorphism.Eagle"/>
     <fullyQualifiedTypeName name="inheritance04.GoldCustomer"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="inheritance04.Customer"/>
+    <fullyQualifiedTypeName name="abstractTest.NoteBook"/>
+    <fullyQualifiedTypeName name="interfaceTest.Calculator"/>
+    <fullyQualifiedTypeName name="interfaceTest.CompleteCalc"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="scheduler.Scheduler"/>
+    <fullyQualifiedTypeName name="scheduler.RoundRobin"/>
+    <fullyQualifiedTypeName name="interfaceTest02.Calc"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="interfaceTest02.Customer"/>
+    <fullyQualifiedTypeName name="jdk.internal.misc.FileSystemOption"/>
+    <fullyQualifiedTypeName name="queInterface.Queue"/>
+    <fullyQualifiedTypeName name="interfaceExample01.Television"/>
+    <fullyQualifiedTypeName name="interfaceExample01.Refrigerator"/>
+    <fullyQualifiedTypeName name="interfaceExample01.Buyable"/>
+    <fullyQualifiedTypeName name="interfaceExample02.Animal"/>
+    <fullyQualifiedTypeName name="interfaceExample02.Cat"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="interfaceExample03.Shape"/>
+    <fullyQualifiedTypeName name="interfaceExample03.Circle"/>
 </qualifiedTypeNameHistroy>
