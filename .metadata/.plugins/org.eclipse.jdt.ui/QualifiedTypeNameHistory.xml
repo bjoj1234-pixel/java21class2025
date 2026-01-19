@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.Locale"/>
-    <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
-    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
-    <fullyQualifiedTypeName name="bookshop.BookList"/>
-    <fullyQualifiedTypeName name="bookshop.BookDTO"/>
-    <fullyQualifiedTypeName name="staticEx.Student"/>
-    <fullyQualifiedTypeName name="staticEx.StaticEx01"/>
-    <fullyQualifiedTypeName name="privateEx.PrivateTest"/>
-    <fullyQualifiedTypeName name="bookMax.privateEx01"/>
     <fullyQualifiedTypeName name="inheritance.ParentClass"/>
     <fullyQualifiedTypeName name="inheritance.ChildClass"/>
     <fullyQualifiedTypeName name="inheritance3.ColorTV"/>
@@ -20,7 +10,6 @@
     <fullyQualifiedTypeName name="inheritance04.VIP"/>
     <fullyQualifiedTypeName name="shopMol.Item"/>
     <fullyQualifiedTypeName name="shopMol.ItemManager"/>
-    <fullyQualifiedTypeName name="java.lang.ScopedValue"/>
     <fullyQualifiedTypeName name="java.nio.channels.ScatteringByteChannel"/>
     <fullyQualifiedTypeName name="omok.GameElements"/>
     <fullyQualifiedTypeName name="omok.Game"/>
@@ -44,7 +33,6 @@
     <fullyQualifiedTypeName name="interfaceExample01.Buyable"/>
     <fullyQualifiedTypeName name="interfaceExample02.Animal"/>
     <fullyQualifiedTypeName name="interfaceExample02.Cat"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="interfaceExample03.Shape"/>
     <fullyQualifiedTypeName name="interfaceExample03.Circle"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
@@ -52,12 +40,24 @@
     <fullyQualifiedTypeName name="mapTest.StringTokenizer"/>
     <fullyQualifiedTypeName name="mapTest.StringTokenizer02"/>
     <fullyQualifiedTypeName name="hashMapEx.Location"/>
-    <fullyQualifiedTypeName name="java.util.HashMap"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="capitalGame.Game"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+    <fullyQualifiedTypeName name="java.awt.List"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="exceTest.MainClass05"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.lang.ScopedValue"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.util.Map"/>
-    <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="ot_Shop.UserMenu"/>
+    <fullyQualifiedTypeName name="ot_Shop.Cart"/>
+    <fullyQualifiedTypeName name="ot_Shop.Item"/>
 </qualifiedTypeNameHistroy>
