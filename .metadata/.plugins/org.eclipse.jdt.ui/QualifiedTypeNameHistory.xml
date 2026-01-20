@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="inheritance.ParentClass"/>
-    <fullyQualifiedTypeName name="inheritance.ChildClass"/>
-    <fullyQualifiedTypeName name="inheritance3.ColorTV"/>
-    <fullyQualifiedTypeName name="inheritance02.ShapPencil"/>
-    <fullyQualifiedTypeName name="inheritance02.BollPen"/>
-    <fullyQualifiedTypeName name="inheritance02.FounctionPen"/>
-    <fullyQualifiedTypeName name="java.lang.ProcessBuilder"/>
-    <fullyQualifiedTypeName name="inheritance04.VIP"/>
-    <fullyQualifiedTypeName name="shopMol.Item"/>
-    <fullyQualifiedTypeName name="shopMol.ItemManager"/>
-    <fullyQualifiedTypeName name="java.nio.channels.ScatteringByteChannel"/>
-    <fullyQualifiedTypeName name="omok.GameElements"/>
-    <fullyQualifiedTypeName name="omok.Game"/>
-    <fullyQualifiedTypeName name="polymorphism.Animal"/>
     <fullyQualifiedTypeName name="polymorphism.AnimalTest"/>
     <fullyQualifiedTypeName name="polymorphism.Human"/>
     <fullyQualifiedTypeName name="polymorphism.Eagle"/>
@@ -52,12 +38,26 @@
     <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="exceTest.MainClass05"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="java.lang.ScopedValue"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="ot_Shop.UserMenu"/>
     <fullyQualifiedTypeName name="ot_Shop.Cart"/>
     <fullyQualifiedTypeName name="ot_Shop.Item"/>
+    <fullyQualifiedTypeName name="ot_Shop.ItemManager"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="ot_Shop.Shooping"/>
+    <fullyQualifiedTypeName name="diExample.MyCal"/>
+    <fullyQualifiedTypeName name="diExample.Caladd"/>
+    <fullyQualifiedTypeName name="diExample.Ical"/>
+    <fullyQualifiedTypeName name="diExample02.Greeting"/>
+    <fullyQualifiedTypeName name="diExample02.GreetingService"/>
+    <fullyQualifiedTypeName name="diExample03.Payment"/>
+    <fullyQualifiedTypeName name="diExample03.PaymentProcessor"/>
+    <fullyQualifiedTypeName name="diExample04.Message"/>
+    <fullyQualifiedTypeName name="diExample04.MessageSender"/>
+    <fullyQualifiedTypeName name="diExample05.Shape"/>
+    <fullyQualifiedTypeName name="diExample05.ShapeCalculator"/>
+    <fullyQualifiedTypeName name="diExample07.Discount"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
 </qualifiedTypeNameHistroy>
